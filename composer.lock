@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "4dd43f6ec761049897408e96c2c3e315",
+    "content-hash": "f9382da712e28251232727575dbc51bf",
     "packages": [
         {
             "name": "scrivo/highlight.php",
@@ -65,9 +65,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "scrivo/highlight.php": 0
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
