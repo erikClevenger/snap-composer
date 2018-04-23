@@ -1,5 +1,5 @@
 {
 	"require": {
-		"scrivo/highlight.php": 12.0.*"
-		}
+		"scrivo/highlight.php": "@stable"
+	}
 }
