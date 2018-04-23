@@ -13,3 +13,4 @@ function numLivesPerSenator(string $name): int {
 		return 1;
 	}
 }
+
